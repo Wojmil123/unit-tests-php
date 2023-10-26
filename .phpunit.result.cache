@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AuthBasicTest::testCreateCode":7,"AuthBasicTest::testCreateAuthToken":7},"times":{"AuthBasicTest::testCreateCode":0.001,"AuthBasicTest::testCreateAuthToken":0.03}}
