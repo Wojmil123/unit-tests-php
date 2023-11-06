@@ -1,1 +1,1 @@
-{"version":1,"defects":{"AuthBasicTest::testCreateCode":7,"AuthBasicTest::testCreateAuthToken":7},"times":{"AuthBasicTest::testCreateCode":0.001,"AuthBasicTest::testCreateAuthToken":0.03}}
+{"version":1,"defects":{"AuthBasicTest::testCreateCode":7,"AuthBasicTest::testCreateAuthToken":8,"tests\\tests\\DataBaseConnTest::testPut":8,"DataBaseConnTest::testPut":8,"DataBaseConnTest::testGet":8,"SensorTest::testGetBrowser":8},"times":{"AuthBasicTest::testCreateCode":0.001,"AuthBasicTest::testCreateAuthToken":0.014,"DataBaseConnTest::testPut":0.012,"DataBaseConnTest::testGet":0.002}}

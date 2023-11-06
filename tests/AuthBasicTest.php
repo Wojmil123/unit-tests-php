@@ -41,7 +41,7 @@ class AuthBasicTest extends TestCase
             'authDate'=>date("Y-m-d"), 'authHour'=>date("H:i:s"),
             'addrIp'=>'127.0.0.1', 'reqOs'=>'Linux', 'reqBrw'=>'FF'
         );
-        $out = $this->instance->createAuthToken('jmkisielewski@gmail.com', 13);
+        $out = $this->instance->createAuthToken('jmkisielewski@gmail.com', 1);
         $out['authCode'] = '123456';
         $this->assertEquals($exp, $out, 'Arrays not equal');
         $this->tearDown();
